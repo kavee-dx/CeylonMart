@@ -10,6 +10,13 @@ The platform provides a modern digital solution for grocery businesses by connec
 
 ---
 
+## 🎥 Live Demo
+
+👉 **[Click here to view the full project demo video](https://drive.google.com/file/d/1MxT-wwXBfnUjsYHpfpEr9dcB-txgkhK0/view?usp=sharing)**
+
+
+---
+
 # 🚀 Project Overview
 
 CeylonMart helps manage the complete grocery business workflow from product management to customer delivery. The system allows customers to purchase groceries online while administrators and managers efficiently handle inventory, suppliers, payments, and deliveries.
