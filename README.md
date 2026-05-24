@@ -1,5 +1,8 @@
-# 🛒 CeylonMart
-## Online Grocery Management Platform
+# 🛒 CeylonMart - Online Grocery Management Platform
+
+<p align="center">
+  <img src="./screenshots/ceylonmarthome.png" width="900"/>
+</p>
 
 CeylonMart is a full-stack MERN-based online grocery e-commerce and management platform designed to streamline grocery shopping, inventory handling, supplier coordination, customer order processing, payment management, and delivery operations within a single integrated system.
 
