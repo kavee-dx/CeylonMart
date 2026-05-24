@@ -309,15 +309,15 @@ EMAIL_PASS=your_password
 
 ---
 
-# 👨‍💻 Development Team
+## 👨‍💻 Development Team
 
-| Team Members |
-|--------------|
-| W.A.K.Divyanjali |
-| S.M.T.K.Samarathunga |
-| R.M.T.S.Rathnayake |
-| D.J.M.D.C.J.Jayamaha |
-| Y.K.M.V.S.Abeyrathnabandara |
+| Team Member | Responsibility |
+|------------|-------------------------------|
+| W.A.K.Divyanjali | Inventory Management Component |
+| S.M.T.K.Samarathunga | Supplier Management Component |
+| R.M.T.S.Rathnayake | User Management Component |
+| D.J.M.D.C.J.Jayamaha | Customer Order & Payment Component |
+| Y.K.M.V.S.Abeyrathnabandara | Delivery Management Component |
 
 ---
 
