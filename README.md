@@ -12,7 +12,7 @@ The platform provides a modern digital solution for grocery businesses by connec
 
 ## 🎥 Live Demo
 
-👉 **[Click here to view the full project demo video](https://drive.google.com/file/d/1MxT-wwXBfnUjsYHpfpEr9dcB-txgkhK0/view?usp=sharing)**
+👉 **[Click here to view the full project demo video](https://youtu.be/adIGCFTHuOc)**
 
 
 ---
